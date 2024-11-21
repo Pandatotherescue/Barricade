@@ -15,12 +15,24 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Barricade
-build_property.ProjectDir = C:\Users\jakob\Desktop\Barricade\Barricade\
+build_property.ProjectDir = C:\Users\jakob\Desktop\Barricade\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/jakob/Desktop/Barricade/Barricade/App.axaml]
+[C:/Users/jakob/Desktop/Barricade/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/jakob/Desktop/Barricade/Barricade/Views/MainWindow.axaml]
+[C:/Users/jakob/Desktop/Barricade/Views/HomeView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/jakob/Desktop/Barricade/Views/LoginView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/jakob/Desktop/Barricade/Views/MainView.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/jakob/Desktop/Barricade/Views/MainWindow.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
+[C:/Users/jakob/Desktop/Barricade/Views/RegisterView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

@@ -4,9 +4,9 @@ using Avalonia.Markup.Xaml;
 
 namespace Barricade.Views;
 
-public partial class MainWindow : Window
+public partial class HomeView : Window
 {
-    public MainWindow()
+    public HomeView()
     {
         InitializeComponent();
     }
