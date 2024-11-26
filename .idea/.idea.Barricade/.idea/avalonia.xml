@@ -6,6 +6,7 @@
         <entry key="App.axaml" value="Barricade.csproj" />
         <entry key="Views/HomeView.axaml" value="Barricade.csproj" />
         <entry key="Views/Login.axaml" value="Barricade.csproj" />
+        <entry key="Views/MainView.axaml" value="Barricade.csproj" />
         <entry key="Views/MainWindow.axaml" value="Barricade.csproj" />
         <entry key="Views/RegisterView.axaml" value="Barricade.csproj" />
       </map>

@@ -3,11 +3,12 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModels="clr-namespace:ArFiApp.ViewModels"
         xmlns:vm="using:Barricade.ViewModels"
         Title="Barricade"
         d:DesignHeight="768"
         d:DesignWidth="1024"
-        x:DataType="vm:MainWindowViewModel"
+        x:DataType="viewModels:MainWindowViewModel"
         Icon="/Assets/Barricade-Icon-50x50-ICO.ico"
         mc:Ignorable="d">
 
@@ -16,7 +17,7 @@
             This only sets the DataContext for the previewer in an IDE,
             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs)
         -->
-        <vm:MainWindowViewModel />
+        <viewModels:MainWindowViewModel />
     </Design.DataContext>
 
     <Border Padding="20" Background="#25242e">

@@ -1,5 +1,5 @@
 ﻿using Barricade.ViewModels;
-using ReactiveUI.Fody.Helpers;
+using ReactiveUI;
 
 namespace ArFiApp.ViewModels;
 
